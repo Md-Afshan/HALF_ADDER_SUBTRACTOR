@@ -91,4 +91,5 @@ Half_subtractor
 ![315919503-fb1a88d1-5862-480f-983c-18c6c2639d66](https://github.com/Md-Afshan/HALF_ADDER_SUBTRACTOR/assets/147140059/da1e194f-de57-4cf9-90f2-8f187e3aa1bb)
 
 **Result:**
+
 The code is excecuted successfully.
